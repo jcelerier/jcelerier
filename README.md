@@ -2,7 +2,7 @@
   
     :.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.:.:.::.:.:.
 
-    Working full-time on ossia, a platform for multimedia creation. 
+    Working full-time on https://ossia.io, a platform for multimedia creation. 
     Check out ossia score (https://github.com/ossia/score), 
     the intermedia sequencer at the heart of the system ! 
 
