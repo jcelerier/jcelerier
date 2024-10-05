@@ -21,6 +21,6 @@
     
 
 <p align="right">
-  my hometown: <br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcelerier&theme=gruvbox&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=700" alt="GitHub Streak" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/PaleBlueDot.jpg" width="250">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcelerier&theme=gruvbox&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=700" alt="GitHub Streak" /></a><br/>
+  my hometown: <br/><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/PaleBlueDot.jpg" width="250">
 </p>
