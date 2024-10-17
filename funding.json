@@ -23,7 +23,7 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/ossia/score",
-                "wellKnown": "https://github.com/ossia/score/blob/main/.well-known/funding-manifest-urls"
+                "wellKnown": "https://raw.githubusercontent.com/ossia/score/refs/heads/master/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:GPL-3.0"
@@ -58,7 +58,7 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/ossia/libossia",
-                "wellKnown": "https://github.com/ossia/libossia/blob/main/.well-known/funding-manifest-urls"
+                "wellKnown": "https://raw.githubusercontent.com/ossia/libossia/refs/heads/master/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:GPL-3.0"
@@ -91,7 +91,7 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/celtera/avendish",
-                "wellKnown": "https://github.com/celtera/avendish/blob/main/.well-known/funding-manifest-urls"
+                "wellKnown": "https://raw.githubusercontent.com/celtera/avendish/refs/heads/main/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:AGPL-3.0"
@@ -124,7 +124,7 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/celtera/libremidi",
-                "wellKnown": "https://github.com/celtera/libremidi/blob/main/.well-known/funding-manifest-urls"
+                "wellKnown": "https://raw.githubusercontent.com/celtera/libremidi/refs/heads/master/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:BSD-2-Clause AND MIT"
