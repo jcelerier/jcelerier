@@ -1,0 +1,249 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "maintainer",
+        "name": "Jean-Michaël Celerier",
+        "email": "jeanmichael.celerier@gmail.com",
+        "phone": "",
+        "description": "My goal is to make media art authoring accessible to the general public, and allow media & performance artists to express themselves under minimal technical constraints.\nI am the lead developer of the ossia ecosystem, a set of free software used for artistic creation, along with various open-source components and libraries used for art and computer science research. I develop various libraries in C++ to enable the development of such software and contribute to the entire ecosystem by trying to improve the engineering practices in use in this field.",
+        "webpageUrl": {
+            "url": "https://jcelerier.name",
+            "wellKnown": "https://jcelerier.name/.well-known/funding-manifest-urls"
+        }
+    },
+    "projects": [
+        {
+            "guid": "ossia-score",
+            "name": "ossia score",
+            "description": "ossia score is a sequencer for audio-visual artists, designed to create interactive shows. It allows to sequence OSC, MIDI, DMX, Spout, Syphon, NDI, ... and in general sound, video and more, between multiple software and hardware. It enables artists to create interactive and intermedia scores in a visual environment, to script and live-code with JavaScript, ISF Shaders, Faust, PureData or even C++. It is compatible with IoT protocols such as CoAP or MQTT, and enables interactions with joysticks, Wiimotes, Leapmotions, Web APIs, BLE sensors, and much more.",
+            "webpageUrl": {
+                "url": "https://ossia.io",
+                "wellKnown": "https://ossia.io/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/ossia/score",
+                "wellKnown": "https://github.com/ossia/score/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": [
+                "spdx:GPL-3.0"
+            ],
+            "tags": [
+                "sequencer",
+                "audio",
+                "video",
+                "multimedia",
+                "intermedia",
+                "midi",
+                "osc",
+                "dmx",
+                "ndi",
+                "daw",
+                "audioreactive",
+                "shaders",
+                "vj",
+                "dj",
+                "iot",
+                "networking",
+                "oscquery"
+            ]
+        },
+        {
+            "guid": "libossia",
+            "name": "libossia",
+            "description": "libossia is a modern C++, cross-environment distributed object model for creative coding. It allows to declare the architecture of your creative coding application's functions as a tree of OSC nodes and parameters. These nodes/parameters can have attributes, which allow to declare many of their properties, such as their values, types, units, ranges, etc. This OSC tree-based architecture  can then be exposed over the network under several protocols, some of which allow this architecture, and the properties and values of its nodes, to be fully explored and queried. For now, protocols available in the implementations are: plain OSC, OSCquery, and Minuit - more are part of libossia and will be made available in the future. libossia offers bindings and implementations for several environments: PureData, Max/MSP, Python, C, C++, openframeworks, Unity3D, QML, Faust, SuperCollider.",
+            "webpageUrl": {
+                "url": "https://ossia.io",
+                "wellKnown": "https://ossia.io/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/ossia/libossia",
+                "wellKnown": "https://github.com/ossia/libossia/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": [
+                "spdx:GPL-3.0"
+            ],
+            "tags": [
+                "library",
+                "audio",
+                "video",
+                "multimedia",
+                "intermedia",
+                "midi",
+                "osc",
+                "dmx",
+                "ndi",
+                "iot",
+                "networking",
+                "osc",
+                "oscquery",
+                "max/msp",
+                "puredata"
+            ]
+        },
+        {
+            "guid": "avendish",
+            "name": "avendish",
+            "description": "Avendish is a zero-cost, compile-time, reflection-based, pure C++ solution to the quadratic glue MxN problem. It allows to write zero-dependency audio / video / data plug-ins that can be exported to many creative environments simply through modern C++ features: ossia score, Max/MSP, Python, PureData, VST, CLAP, etc.",
+            "webpageUrl": {
+                "url": "https://celtera.github.io/avendish",
+                "wellKnown": "https://celtera.github.io/avendish/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/celtera/avendish",
+                "wellKnown": "https://github.com/celtera/avendish/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": [
+                "spdx:AGPL-3.0"
+            ],
+            "tags": [
+                "library",
+                "C++",
+                "header-only",
+                "non-intrusive",
+                "plug-in",
+                "multimedia",
+                "intermedia",
+                "max/msp",
+                "puredata",
+                "vst",
+                "python",
+                "bindings",
+                "clap",
+                "wrapper",
+                "reflection"
+            ]
+        },
+        {
+            "guid": "libremidi",
+            "name": "libremidi",
+            "description": "libremidi is a cross-platform C++20 library for real-time and MIDI file input and output. It supports MIDI 1 and MIDI 2 and in particular is the first cross-platform library to allow access to the macOS, Windows and Linux real-time MIDI 2 APIs. It provides many back-ends: Pipewire, ALSA RawMidi and Sequencer, JACK on all platforms, and is tailored towards enabling application authors to ship MIDI support as easily as possible while still enabling powerful configuration and customization options to tailor the library to one's needs.",
+            "webpageUrl": {
+                "url": "https://celtera.github.io/libremidi",
+                "wellKnown": "https://celtera.github.io/libremidi/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/celtera/libremidi",
+                "wellKnown": "https://github.com/celtera/libremidi/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": [
+                "spdx:BSD-2-Clause AND MIT"
+            ],
+            "tags": [
+                "midi",
+                "midi 2",
+                "realtime",
+                "multimedia",
+                "intermedia",
+                "midi",
+                "library",
+                "c++",
+                "header-only"
+            ]
+        }
+    ],
+    "funding": {
+        "channels": [
+            {
+                "guid": "mybank",
+                "type": "bank",
+                "address": "jeanmichael.celerier@gmail.com",
+                "description": "Will accept direct bank transfers. Please e-mail me for details."
+            },
+            {
+                "guid": "mypay",
+                "type": "payment-provider",
+                "address": "https://github.com/sponsors/jcelerier",
+                "description": "Pay through Github Sponsors."
+            }
+        ],
+        "plans": [
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This covers some of my evenings and week-ends scratching my head against weird bugs :-) (and my entire coffee intake)",
+                "amount": 500,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": [
+                    "mybank",
+                    "mypay"
+                ]
+            },
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This covers enough development time for me to be able to work a regular part-time on my projects",
+                "amount": 2500,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": [
+                    "mybank",
+                    "mypay"
+                ]
+            },
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This covers enough development time for me to be able to work full-time on open-source projects. Thanks <33333",
+                "amount": 5000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": [
+                    "mybank",
+                    "mypay"
+                ]
+            },
+            {
+                "guid": "angel-plan",
+                "status": "active",
+                "name": "Goodwill plan",
+                "description": "Pay anything you wish to show your goodwill for the project.",
+                "amount": 0,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": [
+                    "mybank",
+                    "mypay"
+                ]
+            }
+        ],
+        "history": [
+            {
+                "year": 2020,
+                "income": 10000,
+                "expenses": 30000,
+                "taxes": 2500,
+                "currency": "EUR",
+                "description": "OpenCollective grant, software development and creation of video documentation & tutorials of the software"
+            },
+            {
+                "year": 2021,
+                "income": 100000,
+                "expenses": 100000,
+                "taxes": 0,
+                "currency": "USD",
+                "description": "ossia Epic Megagrant, creation of the ossia.io non-profit organization in France and Canada to manage the funds. Continued software development. Creation of Avendish. Multiple calls to freelance workers to improve aspects of ossia: documentation, presets etc."
+            },
+            {
+                "year": 2022,
+                "income": 10000,
+                "expenses": 50000,
+                "taxes": 2000,
+                "currency": "CAD",
+                "description": "MITACS Grant between ossia.io France and Canada to develop the IoT and embedded applications of ossia in a Concordia postdoc ; continuous development of the platform. I moved to Canada :)"
+            },
+            {
+                "year": 2023,
+                "income": 40000,
+                "expenses": 50000,
+                "taxes": 10000,
+                "currency": "CAD",
+                "description": "Remaining of the MITACS Grant to develop the IoT and embedded applications of ossia."
+            }
+        ]
+    }
+}
