@@ -23,7 +23,7 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/ossia/score",
-                "wellKnown": "https://raw.githubusercontent.com/ossia/score/refs/heads/master/.well-known/funding-manifest-urls"
+                "wellKnown": "https://github.com/ossia/score/blob/master/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:GPL-3.0"
@@ -37,15 +37,8 @@
                 "midi",
                 "osc",
                 "dmx",
-                "ndi",
                 "daw",
-                "audioreactive",
-                "shaders",
-                "vj",
-                "dj",
-                "iot",
-                "networking",
-                "oscquery"
+                "audioreactive"
             ]
         },
         {
@@ -58,7 +51,7 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/ossia/libossia",
-                "wellKnown": "https://raw.githubusercontent.com/ossia/libossia/refs/heads/master/.well-known/funding-manifest-urls"
+                "wellKnown": "https://github.com/ossia/libossia/blob/master/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:GPL-3.0"
@@ -69,15 +62,10 @@
                 "video",
                 "multimedia",
                 "intermedia",
-                "midi",
-                "osc",
-                "dmx",
-                "ndi",
-                "iot",
                 "networking",
                 "osc",
                 "oscquery",
-                "max/msp",
+                "max-msp",
                 "puredata"
             ]
         },
@@ -91,27 +79,22 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/celtera/avendish",
-                "wellKnown": "https://raw.githubusercontent.com/celtera/avendish/refs/heads/main/.well-known/funding-manifest-urls"
+                "wellKnown": "https://github.com/celtera/avendish/blob/main/.well-known/funding-manifest-urls"
             },
             "licenses": [
                 "spdx:AGPL-3.0"
             ],
             "tags": [
                 "library",
-                "C++",
+                "cpp",
                 "header-only",
-                "non-intrusive",
                 "plug-in",
                 "multimedia",
                 "intermedia",
-                "max/msp",
+                "max-msp",
                 "puredata",
                 "vst",
-                "python",
-                "bindings",
-                "clap",
-                "wrapper",
-                "reflection"
+                "clap"
             ]
         },
         {
@@ -124,20 +107,18 @@
             },
             "repositoryUrl": {
                 "url": "https://github.com/celtera/libremidi",
-                "wellKnown": "https://raw.githubusercontent.com/celtera/libremidi/refs/heads/master/.well-known/funding-manifest-urls"
+                "wellKnown": "https://github.com/celtera/libremidi/blob/master/.well-known/funding-manifest-urls"
             },
             "licenses": [
-                "spdx:BSD-2-Clause AND MIT"
+                "spdx:BSD-2-Clause"
             ],
             "tags": [
                 "midi",
-                "midi 2",
                 "realtime",
                 "multimedia",
                 "intermedia",
-                "midi",
                 "library",
-                "c++",
+                "cpp",
                 "header-only"
             ]
         }
