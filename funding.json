@@ -161,7 +161,7 @@
             {
                 "guid": "developer-time",
                 "status": "active",
-                "name": "Developer compensation",
+                "name": "Developer compensation (l)",
                 "description": "This covers some of my evenings and week-ends scratching my head against weird bugs :-) (and my entire coffee intake)",
                 "amount": 500,
                 "currency": "USD",
@@ -174,7 +174,7 @@
             {
                 "guid": "developer-time",
                 "status": "active",
-                "name": "Developer compensation",
+                "name": "Developer compensation (xl)",
                 "description": "This covers enough development time for me to be able to work a regular part-time on my projects",
                 "amount": 2500,
                 "currency": "USD",
@@ -187,7 +187,7 @@
             {
                 "guid": "developer-time",
                 "status": "active",
-                "name": "Developer compensation",
+                "name": "Developer compensation (xxl)",
                 "description": "This covers enough development time for me to be able to work full-time on open-source projects. Thanks <33333",
                 "amount": 5000,
                 "currency": "USD",
