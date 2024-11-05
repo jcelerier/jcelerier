@@ -5,11 +5,10 @@
         "role": "maintainer",
         "name": "Jean-Michaël Celerier",
         "email": "jeanmichael.celerier@gmail.com",
-        "phone": "",
-        "description": "My goal is to make media art authoring accessible to the general public, and allow media & performance artists to express themselves under minimal technical constraints.\nI am the lead developer of the ossia ecosystem, a set of free software used for artistic creation, along with various open-source components and libraries used for art and computer science research. I develop various libraries in C++ to enable the development of such software and contribute to the entire ecosystem by trying to improve the engineering practices in use in this field.",
+        "phone": "001-438-401-7843",
+        "description": "My goal is to make media art authoring accessible to the general public, and allow media & performance artists to express themselves under minimal technical constraints. I am the lead developer of the ossia ecosystem, a set of free software used for artistic creation, along with various open-source components and libraries used for art and computer science research. I develop various libraries in C++ to enable the development of such software and contribute to the entire ecosystem by trying to improve the engineering practices in use in this field.",
         "webpageUrl": {
-            "url": "https://jcelerier.name",
-            "wellKnown": "https://jcelerier.name/.well-known/funding-manifest-urls"
+            "url": "https://jcelerier.name"
         }
     },
     "projects": [
@@ -145,7 +144,7 @@
                 "name": "Developer compensation (l)",
                 "description": "This covers some of my evenings and week-ends scratching my head against weird bugs :-) (and my entire coffee intake)",
                 "amount": 500,
-                "currency": "USD",
+                "currency": "EUR",
                 "frequency": "monthly",
                 "channels": [
                     "mybank",
@@ -158,7 +157,7 @@
                 "name": "Developer compensation (xl)",
                 "description": "This covers enough development time for me to be able to work a regular part-time on my projects",
                 "amount": 2500,
-                "currency": "USD",
+                "currency": "EUR",
                 "frequency": "monthly",
                 "channels": [
                     "mybank",
@@ -171,7 +170,7 @@
                 "name": "Developer compensation (xxl)",
                 "description": "This covers enough development time for me to be able to work full-time on open-source projects. Thanks <33333",
                 "amount": 5000,
-                "currency": "USD",
+                "currency": "EUR",
                 "frequency": "monthly",
                 "channels": [
                     "mybank",
@@ -184,7 +183,7 @@
                 "name": "Goodwill plan",
                 "description": "Pay anything you wish to show your goodwill for the project.",
                 "amount": 0,
-                "currency": "USD",
+                "currency": "EUR",
                 "frequency": "one-time",
                 "channels": [
                     "mybank",
